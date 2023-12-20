@@ -25,7 +25,7 @@ public class Auto {
         public void setBrand(String brand){
             this.brand = brand;
         }
-        public void serModel(String model) {this.model =model;}
+        public void setModel(String model) {this.model =model;}
 
         public int getCC(){
             return CC;
